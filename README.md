@@ -21,4 +21,4 @@ My journey to becoming a software developer
 - [SQL Practice]-coming soon – practicing queries and database basics  
 - More projects coming soon...  
 
-📫 Let’s connect: [linkedIn](linkedin.com/in/grace-uzodinma-886340337)
+📫 Let’s connect: [linkedIn](https://www.linkedin.com/in/grace-uzodinma-886340337)
